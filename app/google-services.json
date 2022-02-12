@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494489714041",
+    "project_id": "the-holy-quran-6a81b",
+    "storage_bucket": "the-holy-quran-6a81b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494489714041:android:df235cb4284f44e195c3a8",
+        "android_client_info": {
+          "package_name": "os.abuyahya.theholyquran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494489714041-cj9t0eovh16plv9e9b58vddmu08vl79e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2NuNgv7CSVQDshwX2D61xe_TlXl5J3ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494489714041-cj9t0eovh16plv9e9b58vddmu08vl79e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
