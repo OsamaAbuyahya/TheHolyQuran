@@ -1,7 +1,8 @@
 # TheHolyQuran
-Navigation Component
-MVVM
-Dagger Hilt
+
+#Navigation Component
+##MVVM
+*Dagger Hilt
 Firebase Firestore
 Firebase Storage
 Coroutines
